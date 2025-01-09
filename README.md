@@ -57,9 +57,9 @@ gcc -o tower_simulation tower_simulation.c
 
 ---
 
-## 💭 Feedback and Contributing
+## 💭 Feedback
 
-Feedback and contributions are welcome! Please open issues for bugs, feature requests, or any questions. If you'd like to contribute, feel free to fork the repository and create pull requests.
+Feedback is welcome! Please open issues for bugs, feature requests, or any questions. If you'd like to contribute, feel free to fork the repository and create pull requests.
 
 - **Discussions**: [Link to Discussions](https://github.com/2x2x4-Tower-Cube-Simulator/discussions)
 
