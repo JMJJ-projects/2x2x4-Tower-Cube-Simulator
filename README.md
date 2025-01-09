@@ -17,7 +17,7 @@
 
 This project simulates a 3D Tower Cube, specifically a 2x2x4 Tower, and allows the user to rotate planes along the x, y, or z axes. I created this because I noticed not many people have tried capturing the actual complexity of a shapeshifting Rubik's Cube. Most programs that simulate the 2x2x4 Tower Cube disallow users from making half-turns on the side faces. It includes two modes: **Spatial Mode** to show the positions of blocks in the space, and **Pattern Mode** to show how the stickers on each block change during rotations. This project is useful for visualizing and manipulating 3D objects with a Rubik’s Cube-like rotation system.
 
-### ✍️ Authors
+### ✍️ Author
 **John-Michael JENY JEYARAJ**
 - [GitHub Profile](https://github.com/JMJJ-projects)
 - [LinkedIn Profile](https://www.linkedin.com/in/jmjj/)
